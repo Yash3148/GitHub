@@ -1,3 +1,6 @@
+---------------------------------------------------
+            Hands-on with Git in CLI 
+---------------------------------------------------
 echo "# GitHub" >> README.md
 git init
 git add README.md
